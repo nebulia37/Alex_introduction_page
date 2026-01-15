@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Alex Rivera | Portfolio & AI Twin",
+  "description": "A professional portfolio featuring a Gemini-powered AI twin that can answer questions about the developer's experience, skills, and projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
